@@ -1,0 +1,24 @@
+kandonga_client/node_modules/
+kandonga_driver/node_modules/
+kandonga_client/.expo/
+kandonga_driver/.expo/
+kandonga_client/dist/
+kandonga_driver/dist/
+kandonga_client/npm-debug.*
+
+kandonga_client/*.jks
+kandonga_driver/*.p8
+kandonga_client/*.p8
+kandonga_driver/*.p12
+kandonga_client/*.p12
+kandonga_driver/*.key
+kandonga_client/*.mobileprovision
+kandonga_driver/*.mobileprovision
+kandonga_client/*.orig.*
+kandonga_driver/*.orig.*
+kandonga_client/web-build/
+kandonga_driver/web-build/
+
+# macOS
+kandonga_client/.DS_Store
+kandonga_driver/.DS_Store
